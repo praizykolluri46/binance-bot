@@ -149,8 +149,4 @@ pip install python-binance
 
 ---
 
-## License
 
-MIT License. Use at your own risk.
-
-> ⚠️ **Disclaimer:** This bot is for educational/testing purposes. Trading cryptocurrencies involves significant risk. Test thoroughly on Binance Testnet before using real funds.
